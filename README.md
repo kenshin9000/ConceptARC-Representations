@@ -1,5 +1,6 @@
 # ConceptARC-Representations
 ConceptARC_Extract_Object_GPT4_API_Examples
+
 This repo contains visualizations from the "Extract Object" Section of ConceptARC
 
 The folder "ConceptARC_Extract_Object_Visualizations" contains two versions of the visualizations. 
