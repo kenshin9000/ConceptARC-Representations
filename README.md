@@ -1,14 +1,10 @@
-# ConceptARC-Representations
-ConceptARC_Extract_Object_GPT4_API_Examples
+# ConceptARC/ARC-Representations
 
-This repo contains visualizations from the "Extract Object" Section of ConceptARC
 
-The folder "ConceptARC_Extract_Object_Visualizations" contains two versions of the visualizations. 
+This repo contains visualizations from the 8/16 most difficult categories from ConceptARC in the folder named "ConceptARC_8_Categories_Visualizations".
 
-- Inside the main folder, the folder "ARC_Editor_Visualizations_Original_Output" contains the original visualization output PNGs from the ARC Editor.
+The file "ConceptARC_Extract_Object.txt" contains links to the ChatGPT examples, as well as input/output text from the API for 20 of the ChatGPT examples. This pertains to the thread posted on Twitter/X on December 11.
 
-- Inside the main folder, the folder "ARC_Editor_Visualizations_Dark_Gray_Background" contains the original visualization output PNGs from the ARC Editor, with the background converted to dark gray, as it is easier on the eyes.
+The file "ConceptARC_Long_Reasoning_Chain.txt" contains annotations and a JSON log for the 100 tasks in a single context spoken about in the Twitter/X post made on December 29.
 
-The file "ConceptARC_Extract_Object.txt" contains links to the ChatGPT examples, as well as input/output text from the API for 20 of the ChatGPT examples.
-
-- The API examples work within 3 tries during testing, as defined by the ConceptARC benchmark.
+The file "Extract_Object_Single_Context_JSON_Log.txt" a JSON log for the Extract_Object category in a single context spoken about in the Twitter/X post made on December 29.
